@@ -21,7 +21,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%; /*arredondar as bordas*/
-    border: 5px solid #46a4f1;
+    border: 5px solid #0e76a8;
 }
 
 .center {
@@ -29,7 +29,7 @@ header img {
 }
 
 h1 {
-    color: #46a4f1;
+    color: #0e76a8;
 }
 
 footer img {
