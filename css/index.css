@@ -13,7 +13,7 @@ ul{
 }
 
 a {
-    color: white; /*cor do link a*/
+    color: black; /*cor do link a*/
     text-decoration: none; /*tirar sublinhado*/
 }
 
@@ -74,8 +74,8 @@ nav a:hover {
 }
 
 button {
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: black;
     border: none;
     width: 100px;
     height: 30px;
