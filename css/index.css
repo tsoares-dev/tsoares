@@ -19,9 +19,9 @@ a {
 
 header img {
     width: 150px;
-    height: 150px;
+    height: 150px; /*size da img*/
     border-radius: 50%; /*arredondar as bordas*/
-    border: 5px solid #0e76a8;
+    border: 5px solid #0e76a8; /*cor da borda*/
 }
 
 .center {
@@ -29,7 +29,7 @@ header img {
 }
 
 h1 {
-    color: #0e76a8;
+    color: #0a66c2;
 }
 
 footer img {
@@ -60,7 +60,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #5BBE42;
+    color: #0e76a8;
 }
 
 .contact-form input{
@@ -74,8 +74,8 @@ nav a:hover {
 }
 
 button {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     border: none;
     width: 100px;
     height: 30px;
