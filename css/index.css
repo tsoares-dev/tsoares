@@ -80,3 +80,8 @@ button {
     width: 100px;
     height: 30px;
 }
+
+h2 {
+    color: white;
+    text-align:center;
+}
